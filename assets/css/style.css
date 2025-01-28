@@ -24,7 +24,7 @@ header{
 }
 
 .nav p{
-    color: orangered;
+    color: blue;
     font-size: 20px;
 }
 
@@ -37,8 +37,8 @@ header{
     display: flex;
     justify-content: center;
     color: white;
-    gap: 30px;
-    font-size: 10px;
+    gap: 60px;
+    font-size: 80px;
 }
 .nav input{
     align-items: end;
@@ -46,7 +46,7 @@ header{
 .btn{
     background-color: #DE4123;
     color: #22222274;
-    width: 100px;
+    width: 900px;
     height: 30px;
     font-weight: 600;
     border: none;
