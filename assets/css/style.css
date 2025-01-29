@@ -15,7 +15,7 @@ header{
 }
 
 .nav{
-    width: 100vw;
+    width: 40vw;
     height: 60px;
     display: flex;
     align-items: center;
@@ -54,10 +54,11 @@ header{
 }
 .hero .left{
     width: 400px;
-    height: 200px;
+    height: 500px;
     display: flex;
     flex-direction: column;
     gap: 10px;
+    background-color: azure;
 }
 .hero{
     display: flex;
